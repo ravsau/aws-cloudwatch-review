@@ -1,13 +1,12 @@
 Custom Metrics in Amazon CloudWatch: Memory Utilization and Disk Usage
  
 
-[![View this lab as a video](https://img.youtube.com/vi/bgRt3kiNt_Q&t=454s/0.jpg)](https://www.youtube.com/watch?v=bgRt3kiNt_Q&t=454s) 
+[![View this lab as a video](https://i.ytimg.com/vi/bgRt3kiNt_Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=bgRt3kiNt_Q&t=454s) 
+  
  
-Step 1: Download the custom metric scripts files.
-https://aws.amazon.com/code/amazon-cloudwatch-monitoring-scripts-for-linux/
- 
- 
-Step 2: Launch a Linux Instance
+Step 1: Launch a Linux Instance
+
+Step 2: Ensure that the scripts have permission to perform CloudWatch operations. Create cloudwatch full access role and attach to the EC2
  
 Step 3: Install Perl files
 ```console
@@ -27,12 +26,7 @@ unzip CloudWatchMonitoringScripts-1.2.1.zip
 Step 6: 
 ```console
 cd aws-scripts-mon
-```
- 
-Ensure that the scripts have permission to perform CloudWatch operations using one of the following options:
- 
-give admin access role and attach to EC2
- 
+``` 
  
 Step7:
 ```console
