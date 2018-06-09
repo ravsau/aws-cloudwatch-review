@@ -12,8 +12,9 @@ CloudWatch is the Monitoring Service in Amazon Web services which also allows yo
 
 1) **Cloudwatch (Core):** 
 **Identity and access management(IAM) action group - cloudwatch:***
-It monitors  resources in AWS like in the case of EC2 instances for CPU utilization, Network in/ outs and disk read/writes . At the same time you can use Custom Metrics to monitor more metrics like Memory Utilization.
-2) It can set an alarm(eg your bill is above the monthly budget) and you can send a notification to notify and let you react.
+It monitors  resources in AWS like in the case of EC2 instances for CPU utilization, Network in/ outs and disk read/writes . At the same time you can use Custom Metrics to monitor more metrics like Memory Utilization.\
+
+Cloudwatch can also set an alarm(eg your bill is above the monthly budget) and you can send a notification to notify and let you react.
 
 
 2) **Cloudwatch Logs:**
