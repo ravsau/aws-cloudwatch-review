@@ -1,4 +1,4 @@
-Custom Metrics in Amazon CloudWatch: Memory Utilization and Disk Usage
+Custom Metrics in Amazon CloudWatch: Memory Utilization and Disk Usage. Click the Image below to view a Youtube step by step guide.
  
 
 [![View this lab as a video](https://i.ytimg.com/vi/bgRt3kiNt_Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=bgRt3kiNt_Q&t=454s) 
