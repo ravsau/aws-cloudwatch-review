@@ -23,7 +23,7 @@ Examples:
 a) Send the logs of your AWS Lambda function to cloudwatch
 b) Send the logs of your apache web-server to cloudwatch 
 
-## Notice how it's different from Cloudwatch Metrics. Let me sumarize Metrics and logs in 2 Pics
+## Notice how it's different from Cloudwatch Metrics. Let me sumarize Cloudwatch Metrics and logs in 2 Pics
 
 ### Cloudwatch Metrics for AWS Lambda
 
