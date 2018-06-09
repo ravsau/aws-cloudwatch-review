@@ -2,7 +2,7 @@
 # A summary of Amazon CloudWatch 
 
 
-![Example Cloudwatch Dashboard](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/cloudwatch.png)
+![Example Cloudwatch Dashboard](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/images/cloudwatch.png)
 
 ## What is Cloudwatch?
 CloudWatch is the Monitoring Service in Amazon Web services which also allows you to react against events(AWS). 
@@ -28,10 +28,10 @@ b) Send the logs of your apache web-server to cloudwatch
 
 ### Cloudwatch Metrics for AWS Lambda
 
-![Lambda Metrics](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/lambda-metrics.png)
+![Lambda Metrics](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/images/lambda-metrics.png)
 
 ### Cloudwatch Logs for AWS Lambda
-![Lambda Logs](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/lambda-logs.png)
+![Lambda Logs](https://raw.githubusercontent.com/ravsau/aws-cloudwatch-review/master/images/lambda-logs.png)
 
 3) **Cloudwatch Events :**
 **Identity and access management(IAM) action group -events:***
