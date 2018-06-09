@@ -1,6 +1,7 @@
 Custom Metrics in Amazon CloudWatch: Memory Utilization and Disk Usage
  
- 
+
+[![View this lab as a video](https://img.youtube.com/vi/bgRt3kiNt_Q&t=454s/0.jpg)](https://www.youtube.com/watch?v=bgRt3kiNt_Q&t=454s) 
  
 Step 1: Download the custom metric scripts files.
 https://aws.amazon.com/code/amazon-cloudwatch-monitoring-scripts-for-linux/
